@@ -2,10 +2,6 @@
 
 API desenvolvida para fins de aprendizado sobre padrão MVC em Go, Middlewares e para iniciar meus estudos sobre Docker e Depuração
 
-
-### Pré-Requisitos
-* As linhas de comandos (CLI) fundamentais para startar(Run) o projeto estão documentadas no arquivo _RDOCME.md_.
-
 **Dependências:** 
 ```
 - Go Compiler
